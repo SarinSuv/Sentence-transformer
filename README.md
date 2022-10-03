@@ -39,6 +39,7 @@ model-index:
       name: MTEB AmazonCounterfactualClassification (en)
       config: en
       split: test
+      revision: 2d8a100785abf0ae21420d2a55b0c56e3e1ea996
     metrics:
     - type: accuracy
       value: 65.28358208955224
@@ -53,6 +54,7 @@ model-index:
       name: MTEB AmazonCounterfactualClassification (de)
       config: de
       split: test
+      revision: 2d8a100785abf0ae21420d2a55b0c56e3e1ea996
     metrics:
     - type: accuracy
       value: 57.09850107066381
@@ -67,6 +69,7 @@ model-index:
       name: MTEB AmazonCounterfactualClassification (en-ext)
       config: en-ext
       split: test
+      revision: 2d8a100785abf0ae21420d2a55b0c56e3e1ea996
     metrics:
     - type: accuracy
       value: 67.24137931034483
@@ -81,6 +84,7 @@ model-index:
       name: MTEB AmazonCounterfactualClassification (ja)
       config: ja
       split: test
+      revision: 2d8a100785abf0ae21420d2a55b0c56e3e1ea996
     metrics:
     - type: accuracy
       value: 59.91434689507494
@@ -95,6 +99,7 @@ model-index:
       name: MTEB AmazonPolarityClassification
       config: default
       split: test
+      revision: 80714f8dcf8cefc218ef4f8c5a966dd83f75a0e1
     metrics:
     - type: accuracy
       value: 62.984899999999996
@@ -109,6 +114,7 @@ model-index:
       name: MTEB AmazonReviewsClassification (en)
       config: en
       split: test
+      revision: c379a6705fec24a2493fa68e011692605f44e119
     metrics:
     - type: accuracy
       value: 30.792
@@ -121,6 +127,7 @@ model-index:
       name: MTEB AmazonReviewsClassification (de)
       config: de
       split: test
+      revision: c379a6705fec24a2493fa68e011692605f44e119
     metrics:
     - type: accuracy
       value: 25.907999999999998
@@ -133,6 +140,7 @@ model-index:
       name: MTEB AmazonReviewsClassification (es)
       config: es
       split: test
+      revision: c379a6705fec24a2493fa68e011692605f44e119
     metrics:
     - type: accuracy
       value: 27.634000000000004
@@ -145,6 +153,7 @@ model-index:
       name: MTEB AmazonReviewsClassification (fr)
       config: fr
       split: test
+      revision: c379a6705fec24a2493fa68e011692605f44e119
     metrics:
     - type: accuracy
       value: 27.540000000000003
@@ -157,6 +166,7 @@ model-index:
       name: MTEB AmazonReviewsClassification (ja)
       config: ja
       split: test
+      revision: c379a6705fec24a2493fa68e011692605f44e119
     metrics:
     - type: accuracy
       value: 23.566000000000003
@@ -169,6 +179,7 @@ model-index:
       name: MTEB AmazonReviewsClassification (zh)
       config: zh
       split: test
+      revision: c379a6705fec24a2493fa68e011692605f44e119
     metrics:
     - type: accuracy
       value: 22.99
@@ -181,6 +192,7 @@ model-index:
       name: MTEB ArguAna
       config: default
       split: test
+      revision: 5b3e3697907184a9b77a3c99ee9ea1a9cbb1e4e3
     metrics:
     - type: map_at_1
       value: 23.257
@@ -249,6 +261,7 @@ model-index:
       name: MTEB ArxivClusteringP2P
       config: default
       split: test
+      revision: 0bbdb47bcbe3a90093699aefeed338a0f28a7ee8
     metrics:
     - type: v_measure
       value: 46.06982724111873
@@ -259,6 +272,7 @@ model-index:
       name: MTEB ArxivClusteringS2S
       config: default
       split: test
+      revision: b73bd54100e5abfa6e3a23dcafb46fe4d2438dc3
     metrics:
     - type: v_measure
       value: 37.501829188148264
@@ -269,6 +283,7 @@ model-index:
       name: MTEB AskUbuntuDupQuestions
       config: default
       split: test
+      revision: 4d853f94cd57d85ec13805aeeac3ae3e5eb4c49c
     metrics:
     - type: map
       value: 64.06160552465775
@@ -281,6 +296,7 @@ model-index:
       name: MTEB BIOSSES
       config: default
       split: test
+      revision: 9ee918f184421b6bd48b78f6c714d86546106103
     metrics:
     - type: cos_sim_pearson
       value: 86.73300462416691
@@ -301,6 +317,7 @@ model-index:
       name: MTEB Banking77Classification
       config: default
       split: test
+      revision: 44fa15921b4c889113cc5df03dd4901b49161ab7
     metrics:
     - type: accuracy
       value: 80.40259740259741
@@ -313,6 +330,7 @@ model-index:
       name: MTEB BiorxivClusteringP2P
       config: default
       split: test
+      revision: 11d0121201d1f1f280e8cc8f3d98fb9c4d9f9c55
     metrics:
     - type: v_measure
       value: 36.985834019439366
@@ -323,6 +341,7 @@ model-index:
       name: MTEB BiorxivClusteringS2S
       config: default
       split: test
+      revision: c0fab014e1bcb8d3a5e31b2088972a1e01547dc1
     metrics:
     - type: v_measure
       value: 33.207831360185644
@@ -333,6 +352,7 @@ model-index:
       name: MTEB CQADupstackAndroidRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 34.975
@@ -401,6 +421,7 @@ model-index:
       name: MTEB CQADupstackEnglishRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 31.509999999999998
@@ -469,6 +490,7 @@ model-index:
       name: MTEB CQADupstackGamingRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 38.577
@@ -537,6 +559,7 @@ model-index:
       name: MTEB CQADupstackGisRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 27.038
@@ -605,6 +628,7 @@ model-index:
       name: MTEB CQADupstackMathematicaRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 17.264
@@ -673,6 +697,7 @@ model-index:
       name: MTEB CQADupstackPhysicsRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 28.668
@@ -741,6 +766,7 @@ model-index:
       name: MTEB CQADupstackProgrammersRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 25.287
@@ -809,6 +835,7 @@ model-index:
       name: MTEB CQADupstackRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 26.613
@@ -877,6 +904,7 @@ model-index:
       name: MTEB CQADupstackStatsRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 26.079
@@ -945,6 +973,7 @@ model-index:
       name: MTEB CQADupstackTexRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 18.17
@@ -1013,6 +1042,7 @@ model-index:
       name: MTEB CQADupstackUnixRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 28.016999999999996
@@ -1081,6 +1111,7 @@ model-index:
       name: MTEB CQADupstackWebmastersRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 24.295
@@ -1149,6 +1180,7 @@ model-index:
       name: MTEB CQADupstackWordpressRetrieval
       config: default
       split: test
+      revision: 2b9f5791698b5be7bc5e10535c8690f20043c3db
     metrics:
     - type: map_at_1
       value: 19.476
@@ -1217,6 +1249,7 @@ model-index:
       name: MTEB ClimateFEVER
       config: default
       split: test
+      revision: 392b78eb68c07badcd7c2cd8f39af108375dfcce
     metrics:
     - type: map_at_1
       value: 8.341999999999999
@@ -1285,6 +1318,7 @@ model-index:
       name: MTEB DBPedia
       config: default
       split: test
+      revision: f097057d03ed98220bc7309ddb10b71a54d667d6
     metrics:
     - type: map_at_1
       value: 7.5920000000000005
@@ -1353,6 +1387,7 @@ model-index:
       name: MTEB EmotionClassification
       config: default
       split: test
+      revision: 829147f8f75a25f005913200eb5ed41fae320aa1
     metrics:
     - type: accuracy
       value: 41.17
@@ -1365,6 +1400,7 @@ model-index:
       name: MTEB FEVER
       config: default
       split: test
+      revision: 1429cf27e393599b8b359b9b72c666f96b2525f9
     metrics:
     - type: map_at_1
       value: 37.361
@@ -1433,6 +1469,7 @@ model-index:
       name: MTEB FiQA2018
       config: default
       split: test
+      revision: 41b686a7f28c59bcaaa5791efd47c67c8ebe28be
     metrics:
     - type: map_at_1
       value: 18.257
@@ -1501,6 +1538,7 @@ model-index:
       name: MTEB HotpotQA
       config: default
       split: test
+      revision: 766870b35a1b9ca65e67a0d1913899973551fc6c
     metrics:
     - type: map_at_1
       value: 25.935000000000002
@@ -1569,6 +1607,7 @@ model-index:
       name: MTEB ImdbClassification
       config: default
       split: test
+      revision: 8d743909f834c38949e8323a8a6ce8721ea6c7f4
     metrics:
     - type: accuracy
       value: 59.76079999999999
@@ -1583,6 +1622,7 @@ model-index:
       name: MTEB MSMARCO
       config: default
       split: dev
+      revision: e6838a846e2408f22cf5cc337ebc83e0bcf77849
     metrics:
     - type: map_at_1
       value: 20.666999999999998
@@ -1651,6 +1691,7 @@ model-index:
       name: MTEB MTOPDomainClassification (en)
       config: en
       split: test
+      revision: a7e2a951126a26fc8c6a69f835f33a346ba259e3
     metrics:
     - type: accuracy
       value: 91.89922480620154
@@ -1663,6 +1704,7 @@ model-index:
       name: MTEB MTOPDomainClassification (de)
       config: de
       split: test
+      revision: a7e2a951126a26fc8c6a69f835f33a346ba259e3
     metrics:
     - type: accuracy
       value: 72.03719357565511
@@ -1675,6 +1717,7 @@ model-index:
       name: MTEB MTOPDomainClassification (es)
       config: es
       split: test
+      revision: a7e2a951126a26fc8c6a69f835f33a346ba259e3
     metrics:
     - type: accuracy
       value: 72.98532354903269
@@ -1687,6 +1730,7 @@ model-index:
       name: MTEB MTOPDomainClassification (fr)
       config: fr
       split: test
+      revision: a7e2a951126a26fc8c6a69f835f33a346ba259e3
     metrics:
     - type: accuracy
       value: 75.59348575007829
@@ -1699,6 +1743,7 @@ model-index:
       name: MTEB MTOPDomainClassification (hi)
       config: hi
       split: test
+      revision: a7e2a951126a26fc8c6a69f835f33a346ba259e3
     metrics:
     - type: accuracy
       value: 40.36213696665471
@@ -1711,6 +1756,7 @@ model-index:
       name: MTEB MTOPDomainClassification (th)
       config: th
       split: test
+      revision: a7e2a951126a26fc8c6a69f835f33a346ba259e3
     metrics:
     - type: accuracy
       value: 17.099457504520796
@@ -1723,6 +1769,7 @@ model-index:
       name: MTEB MTOPIntentClassification (en)
       config: en
       split: test
+      revision: 6299947a7777084cc2d4b64235bf7190381ce755
     metrics:
     - type: accuracy
       value: 62.83629730962153
@@ -1735,6 +1782,7 @@ model-index:
       name: MTEB MTOPIntentClassification (de)
       config: de
       split: test
+      revision: 6299947a7777084cc2d4b64235bf7190381ce755
     metrics:
     - type: accuracy
       value: 43.412228796844175
@@ -1747,6 +1795,7 @@ model-index:
       name: MTEB MTOPIntentClassification (es)
       config: es
       split: test
+      revision: 6299947a7777084cc2d4b64235bf7190381ce755
     metrics:
     - type: accuracy
       value: 41.8812541694463
@@ -1759,6 +1808,7 @@ model-index:
       name: MTEB MTOPIntentClassification (fr)
       config: fr
       split: test
+      revision: 6299947a7777084cc2d4b64235bf7190381ce755
     metrics:
     - type: accuracy
       value: 38.93830253679925
@@ -1771,6 +1821,7 @@ model-index:
       name: MTEB MTOPIntentClassification (hi)
       config: hi
       split: test
+      revision: 6299947a7777084cc2d4b64235bf7190381ce755
     metrics:
     - type: accuracy
       value: 17.7518823951237
@@ -1783,6 +1834,7 @@ model-index:
       name: MTEB MTOPIntentClassification (th)
       config: th
       split: test
+      revision: 6299947a7777084cc2d4b64235bf7190381ce755
     metrics:
     - type: accuracy
       value: 5.631103074141048
@@ -1795,6 +1847,7 @@ model-index:
       name: MTEB MassiveIntentClassification (af)
       config: af
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 38.94082044384667
@@ -1807,6 +1860,7 @@ model-index:
       name: MTEB MassiveIntentClassification (am)
       config: am
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 2.451244115669133
@@ -1819,6 +1873,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ar)
       config: ar
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 20.938130464021523
@@ -1831,6 +1886,7 @@ model-index:
       name: MTEB MassiveIntentClassification (az)
       config: az
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 34.25016812373907
@@ -1843,6 +1899,7 @@ model-index:
       name: MTEB MassiveIntentClassification (bn)
       config: bn
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 13.665097511768659
@@ -1855,6 +1912,7 @@ model-index:
       name: MTEB MassiveIntentClassification (cy)
       config: cy
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 35.7128446536651
@@ -1867,6 +1925,7 @@ model-index:
       name: MTEB MassiveIntentClassification (da)
       config: da
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 44.425016812373904
@@ -1879,6 +1938,7 @@ model-index:
       name: MTEB MassiveIntentClassification (de)
       config: de
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 44.1661062542031
@@ -1891,6 +1951,7 @@ model-index:
       name: MTEB MassiveIntentClassification (el)
       config: el
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 28.698722259583054
@@ -1903,6 +1964,7 @@ model-index:
       name: MTEB MassiveIntentClassification (en)
       config: en
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 67.14862138533961
@@ -1915,6 +1977,7 @@ model-index:
       name: MTEB MassiveIntentClassification (es)
       config: es
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 40.907868190988566
@@ -1927,6 +1990,7 @@ model-index:
       name: MTEB MassiveIntentClassification (fa)
       config: fa
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 23.517148621385342
@@ -1939,6 +2003,7 @@ model-index:
       name: MTEB MassiveIntentClassification (fi)
       config: fi
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 39.27370544720915
@@ -1951,6 +2016,7 @@ model-index:
       name: MTEB MassiveIntentClassification (fr)
       config: fr
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 44.81506388702085
@@ -1963,6 +2029,7 @@ model-index:
       name: MTEB MassiveIntentClassification (he)
       config: he
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 23.648285137861468
@@ -1975,6 +2042,7 @@ model-index:
       name: MTEB MassiveIntentClassification (hi)
       config: hi
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 17.97579018157364
@@ -1987,6 +2055,7 @@ model-index:
       name: MTEB MassiveIntentClassification (hu)
       config: hu
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 37.995965030262276
@@ -1999,6 +2068,7 @@ model-index:
       name: MTEB MassiveIntentClassification (hy)
       config: hy
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 8.691997310020176
@@ -2011,6 +2081,7 @@ model-index:
       name: MTEB MassiveIntentClassification (id)
       config: id
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 39.66039004707465
@@ -2023,6 +2094,7 @@ model-index:
       name: MTEB MassiveIntentClassification (is)
       config: is
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 35.141223940820446
@@ -2035,6 +2107,7 @@ model-index:
       name: MTEB MassiveIntentClassification (it)
       config: it
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 43.17081371889711
@@ -2047,6 +2120,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ja)
       config: ja
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 30.944855413584392
@@ -2059,6 +2133,7 @@ model-index:
       name: MTEB MassiveIntentClassification (jv)
       config: jv
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 36.69468728984533
@@ -2071,6 +2146,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ka)
       config: ka
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 9.169468728984533
@@ -2083,6 +2159,7 @@ model-index:
       name: MTEB MassiveIntentClassification (km)
       config: km
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 4.986550100874243
@@ -2095,6 +2172,7 @@ model-index:
       name: MTEB MassiveIntentClassification (kn)
       config: kn
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 3.0766644250168125
@@ -2107,6 +2185,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ko)
       config: ko
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 19.966375252185607
@@ -2119,6 +2198,7 @@ model-index:
       name: MTEB MassiveIntentClassification (lv)
       config: lv
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 38.61129791526564
@@ -2131,6 +2211,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ml)
       config: ml
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 2.85137861466039
@@ -2143,6 +2224,7 @@ model-index:
       name: MTEB MassiveIntentClassification (mn)
       config: mn
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 23.24815063887021
@@ -2155,6 +2237,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ms)
       config: ms
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 36.21385339609952
@@ -2167,6 +2250,7 @@ model-index:
       name: MTEB MassiveIntentClassification (my)
       config: my
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 4.381304640215198
@@ -2179,6 +2263,7 @@ model-index:
       name: MTEB MassiveIntentClassification (nb)
       config: nb
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 41.91324815063887
@@ -2191,6 +2276,7 @@ model-index:
       name: MTEB MassiveIntentClassification (nl)
       config: nl
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 41.85272360457296
@@ -2203,6 +2289,7 @@ model-index:
       name: MTEB MassiveIntentClassification (pl)
       config: pl
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 37.632817753866846
@@ -2215,6 +2302,7 @@ model-index:
       name: MTEB MassiveIntentClassification (pt)
       config: pt
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 45.12104909213182
@@ -2227,6 +2315,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ro)
       config: ro
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 41.71486213853396
@@ -2239,6 +2328,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ru)
       config: ru
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 26.3315400134499
@@ -2251,6 +2341,7 @@ model-index:
       name: MTEB MassiveIntentClassification (sl)
       config: sl
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 38.52051109616678
@@ -2263,6 +2354,7 @@ model-index:
       name: MTEB MassiveIntentClassification (sq)
       config: sq
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 41.62071284465367
@@ -2275,6 +2367,7 @@ model-index:
       name: MTEB MassiveIntentClassification (sv)
       config: sv
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 40.416946872898464
@@ -2287,6 +2380,7 @@ model-index:
       name: MTEB MassiveIntentClassification (sw)
       config: sw
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 35.27908540685945
@@ -2299,6 +2393,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ta)
       config: ta
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 13.096839273705447
@@ -2311,6 +2406,7 @@ model-index:
       name: MTEB MassiveIntentClassification (te)
       config: te
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 2.5622057834566236
@@ -2323,6 +2419,7 @@ model-index:
       name: MTEB MassiveIntentClassification (th)
       config: th
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 10.537995965030262
@@ -2335,6 +2432,7 @@ model-index:
       name: MTEB MassiveIntentClassification (tl)
       config: tl
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 38.56086079354405
@@ -2347,6 +2445,7 @@ model-index:
       name: MTEB MassiveIntentClassification (tr)
       config: tr
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 35.897780766644246
@@ -2359,6 +2458,7 @@ model-index:
       name: MTEB MassiveIntentClassification (ur)
       config: ur
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 16.1768661735037
@@ -2371,6 +2471,7 @@ model-index:
       name: MTEB MassiveIntentClassification (vi)
       config: vi
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 37.37726967047747
@@ -2383,6 +2484,7 @@ model-index:
       name: MTEB MassiveIntentClassification (zh-CN)
       config: zh-CN
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 23.74243443174176
@@ -2395,6 +2497,7 @@ model-index:
       name: MTEB MassiveIntentClassification (zh-TW)
       config: zh-TW
       split: test
+      revision: 072a486a144adf7f4479a4a0dddb2152e161e1ea
     metrics:
     - type: accuracy
       value: 22.387357094821787
@@ -2407,6 +2510,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (af)
       config: af
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 45.709482178883654
@@ -2419,6 +2523,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (am)
       config: am
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 7.407531943510423
@@ -2431,6 +2536,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ar)
       config: ar
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 27.61936785474109
@@ -2443,6 +2549,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (az)
       config: az
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 39.57969065232011
@@ -2455,6 +2562,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (bn)
       config: bn
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 18.9778076664425
@@ -2467,6 +2575,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (cy)
       config: cy
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 41.40215198386012
@@ -2479,6 +2588,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (da)
       config: da
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 49.46872898453262
@@ -2491,6 +2601,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (de)
       config: de
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 52.07128446536652
@@ -2503,6 +2614,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (el)
       config: el
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 35.50773369199731
@@ -2515,6 +2627,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (en)
       config: en
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 74.57632817753867
@@ -2527,6 +2640,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (es)
       config: es
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 50.743106926698054
@@ -2539,6 +2653,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (fa)
       config: fa
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 29.004707464694015
@@ -2551,6 +2666,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (fi)
       config: fi
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 45.80026899798252
@@ -2563,6 +2679,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (fr)
       config: fr
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 53.7626092804304
@@ -2575,6 +2692,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (he)
       config: he
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 25.682582380632148
@@ -2587,6 +2705,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (hi)
       config: hi
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 23.022864828513782
@@ -2599,6 +2718,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (hu)
       config: hu
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 44.08540685944856
@@ -2611,6 +2731,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (hy)
       config: hy
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 14.83187626092804
@@ -2623,6 +2744,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (id)
       config: id
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 44.34767989240081
@@ -2635,6 +2757,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (is)
       config: is
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 43.08002689979825
@@ -2647,6 +2770,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (it)
       config: it
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 51.71486213853396
@@ -2659,6 +2783,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ja)
       config: ja
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 36.748486886348346
@@ -2671,6 +2796,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (jv)
       config: jv
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 44.56624075319435
@@ -2683,6 +2809,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ka)
       config: ka
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 14.83523873570948
@@ -2695,6 +2822,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (km)
       config: km
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 9.754539340954944
@@ -2707,6 +2835,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (kn)
       config: kn
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 8.315400134498994
@@ -2719,6 +2848,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ko)
       config: ko
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 25.719569603227978
@@ -2731,6 +2861,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (lv)
       config: lv
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 42.74714189643578
@@ -2743,6 +2874,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ml)
       config: ml
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 7.252858103564222
@@ -2755,6 +2887,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (mn)
       config: mn
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 29.034969737726968
@@ -2767,6 +2900,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ms)
       config: ms
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 44.64694014794889
@@ -2779,6 +2913,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (my)
       config: my
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 10.067249495628783
@@ -2791,6 +2926,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (nb)
       config: nb
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 47.357094821788834
@@ -2803,6 +2939,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (nl)
       config: nl
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 49.15265635507734
@@ -2815,6 +2952,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (pl)
       config: pl
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 44.72091459314056
@@ -2827,6 +2965,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (pt)
       config: pt
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 52.99932750504372
@@ -2839,6 +2978,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ro)
       config: ro
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 49.97310020174849
@@ -2851,6 +2991,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ru)
       config: ru
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 28.74915938130464
@@ -2863,6 +3004,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (sl)
       config: sl
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 42.2595830531271
@@ -2875,6 +3017,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (sq)
       config: sq
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 49.13584398117014
@@ -2887,6 +3030,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (sv)
       config: sv
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 46.82582380632145
@@ -2899,6 +3043,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (sw)
       config: sw
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 43.18426361802287
@@ -2911,6 +3056,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ta)
       config: ta
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 19.3813046402152
@@ -2923,6 +3069,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (te)
       config: te
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 7.737054472091459
@@ -2935,6 +3082,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (th)
       config: th
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 18.31540013449899
@@ -2947,6 +3095,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (tl)
       config: tl
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 48.305312710154666
@@ -2959,6 +3108,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (tr)
       config: tr
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 41.792199058507066
@@ -2971,6 +3121,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (ur)
       config: ur
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 24.462004034969738
@@ -2983,6 +3134,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (vi)
       config: vi
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 40.94149293880296
@@ -2995,6 +3147,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (zh-CN)
       config: zh-CN
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 33.17753866845998
@@ -3007,6 +3160,7 @@ model-index:
       name: MTEB MassiveScenarioClassification (zh-TW)
       config: zh-TW
       split: test
+      revision: 7d571f92784cd94a019292a1f45445077d0ef634
     metrics:
     - type: accuracy
       value: 31.15669132481506
@@ -3019,6 +3173,7 @@ model-index:
       name: MTEB MedrxivClusteringP2P
       config: default
       split: test
+      revision: dcefc037ef84348e49b0d29109e891c01067226b
     metrics:
     - type: v_measure
       value: 34.24621118290122
@@ -3029,6 +3184,7 @@ model-index:
       name: MTEB MedrxivClusteringS2S
       config: default
       split: test
+      revision: 3cd0e71dfbe09d4de0f9e5ecba43e7ce280959dc
     metrics:
     - type: v_measure
       value: 32.24202424478886
@@ -3039,6 +3195,7 @@ model-index:
       name: MTEB MindSmallReranking
       config: default
       split: test
+      revision: 3bdac13927fdc888b903db93b2ffdbd90b295a69
     metrics:
     - type: map
       value: 31.024522945679166
@@ -3051,6 +3208,7 @@ model-index:
       name: MTEB NFCorpus
       config: default
       split: test
+      revision: 7eb63cc0c1eb59324d709ebed25fcab851fa7610
     metrics:
     - type: map_at_1
       value: 5.156000000000001
@@ -3119,6 +3277,7 @@ model-index:
       name: MTEB NQ
       config: default
       split: test
+      revision: 6062aefc120bfe8ece5897809fb2e53bfe0d128c
     metrics:
     - type: map_at_1
       value: 23.672
@@ -3187,6 +3346,7 @@ model-index:
       name: MTEB QuoraRetrieval
       config: default
       split: test
+      revision: 6205996560df11e3a3da9ab4f926788fc30a7db4
     metrics:
     - type: map_at_1
       value: 69.667
@@ -3255,6 +3415,7 @@ model-index:
       name: MTEB RedditClustering
       config: default
       split: test
+      revision: b2805658ae38990172679479369a78b86de8c390
     metrics:
     - type: v_measure
       value: 51.177545122684634
@@ -3265,6 +3426,7 @@ model-index:
       name: MTEB RedditClusteringP2P
       config: default
       split: test
+      revision: 385e3cb46b4cfa89021f56c4380204149d0efe33
     metrics:
     - type: v_measure
       value: 54.804652123126985
@@ -3275,6 +3437,7 @@ model-index:
       name: MTEB SCIDOCS
       config: default
       split: test
+      revision: 5c59ef3e437a0a9651c8fe6fde943e7dce59fba5
     metrics:
     - type: map_at_1
       value: 5.162
@@ -3343,6 +3506,7 @@ model-index:
       name: MTEB SICK-R
       config: default
       split: test
+      revision: 20a6d6f312dd54037fe07a32d58e5e168867909d
     metrics:
     - type: cos_sim_pearson
       value: 84.73414727754201
@@ -3363,6 +3527,7 @@ model-index:
       name: MTEB STS12
       config: default
       split: test
+      revision: fdf84275bb8ce4b49c971d02e84dd1abc677a50f
     metrics:
     - type: cos_sim_pearson
       value: 82.89241604274538
@@ -3383,6 +3548,7 @@ model-index:
       name: MTEB STS13
       config: default
       split: test
+      revision: 1591bfcbe8c69d4bf7fe2a16e2451017832cafb9
     metrics:
     - type: cos_sim_pearson
       value: 81.65439991719452
@@ -3403,6 +3569,7 @@ model-index:
       name: MTEB STS14
       config: default
       split: test
+      revision: e2125984e7df8b7871f6ae9949cf6b6795e7c54b
     metrics:
     - type: cos_sim_pearson
       value: 81.66945263546415
@@ -3423,6 +3590,7 @@ model-index:
       name: MTEB STS15
       config: default
       split: test
+      revision: 1cd7298cac12a96a373b6a2f18738bb3e739a9b6
     metrics:
     - type: cos_sim_pearson
       value: 84.80085528616004
@@ -3443,6 +3611,7 @@ model-index:
       name: MTEB STS16
       config: default
       split: test
+      revision: 360a0b2dff98700d09e634a01e1cc1624d3e42cd
     metrics:
     - type: cos_sim_pearson
       value: 79.32666585707851
@@ -3463,6 +3632,7 @@ model-index:
       name: MTEB STS17 (ko-ko)
       config: ko-ko
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 36.97351108396674
@@ -3483,6 +3653,7 @@ model-index:
       name: MTEB STS17 (ar-ar)
       config: ar-ar
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 54.25766812232355
@@ -3503,6 +3674,7 @@ model-index:
       name: MTEB STS17 (en-ar)
       config: en-ar
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 2.000902150291317
@@ -3523,6 +3695,7 @@ model-index:
       name: MTEB STS17 (en-de)
       config: en-de
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 31.103076250241756
@@ -3543,6 +3716,7 @@ model-index:
       name: MTEB STS17 (en-en)
       config: en-en
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 88.92662843843466
@@ -3563,6 +3737,7 @@ model-index:
       name: MTEB STS17 (en-tr)
       config: en-tr
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 6.699439791440673
@@ -3583,6 +3758,7 @@ model-index:
       name: MTEB STS17 (es-en)
       config: es-en
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 22.332768127048812
@@ -3603,6 +3779,7 @@ model-index:
       name: MTEB STS17 (es-es)
       config: es-es
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 78.59529102081041
@@ -3623,6 +3800,7 @@ model-index:
       name: MTEB STS17 (fr-en)
       config: fr-en
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 34.19498070710533
@@ -3643,6 +3821,7 @@ model-index:
       name: MTEB STS17 (it-en)
       config: it-en
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 25.84186641167081
@@ -3663,6 +3842,7 @@ model-index:
       name: MTEB STS17 (nl-en)
       config: nl-en
       split: test
+      revision: 9fc37e8c632af1c87a3d23e685d49552a02582a0
     metrics:
     - type: cos_sim_pearson
       value: 31.68262883322153
@@ -3683,6 +3863,7 @@ model-index:
       name: MTEB STS22 (en)
       config: en
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 66.82398288868168
@@ -3703,6 +3884,7 @@ model-index:
       name: MTEB STS22 (de)
       config: de
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 18.956935297479266
@@ -3723,6 +3905,7 @@ model-index:
       name: MTEB STS22 (es)
       config: es
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 43.159634114474954
@@ -3743,6 +3926,7 @@ model-index:
       name: MTEB STS22 (pl)
       config: pl
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 2.9506287366804567
@@ -3763,6 +3947,7 @@ model-index:
       name: MTEB STS22 (tr)
       config: tr
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 17.494702940326327
@@ -3783,6 +3968,7 @@ model-index:
       name: MTEB STS22 (ar)
       config: ar
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 21.455304899947475
@@ -3803,6 +3989,7 @@ model-index:
       name: MTEB STS22 (ru)
       config: ru
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 5.725870260172754
@@ -3823,6 +4010,7 @@ model-index:
       name: MTEB STS22 (zh)
       config: zh
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 23.644675903928903
@@ -3843,6 +4031,7 @@ model-index:
       name: MTEB STS22 (fr)
       config: fr
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 68.19096417445061
@@ -3863,6 +4052,7 @@ model-index:
       name: MTEB STS22 (de-en)
       config: de-en
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 47.02727261965111
@@ -3883,6 +4073,7 @@ model-index:
       name: MTEB STS22 (es-en)
       config: es-en
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 52.54253509229287
@@ -3903,6 +4094,7 @@ model-index:
       name: MTEB STS22 (it)
       config: it
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 48.017241684543656
@@ -3923,6 +4115,7 @@ model-index:
       name: MTEB STS22 (pl-en)
       config: pl-en
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 43.16723254329198
@@ -3943,6 +4136,7 @@ model-index:
       name: MTEB STS22 (zh-en)
       config: zh-en
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 42.614472380988
@@ -3963,6 +4157,7 @@ model-index:
       name: MTEB STS22 (es-it)
       config: es-it
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 41.19025498086497
@@ -3983,6 +4178,7 @@ model-index:
       name: MTEB STS22 (de-fr)
       config: de-fr
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 42.58930629526249
@@ -4003,6 +4199,7 @@ model-index:
       name: MTEB STS22 (de-pl)
       config: de-pl
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 9.14354524166508
@@ -4023,6 +4220,7 @@ model-index:
       name: MTEB STS22 (fr-pl)
       config: fr-pl
       split: test
+      revision: 2de6ce8c1921b71a755b262c6b57fef195dd7906
     metrics:
     - type: cos_sim_pearson
       value: 16.116974803470246
@@ -4043,6 +4241,7 @@ model-index:
       name: MTEB STSBenchmark
       config: default
       split: test
+      revision: 8913289635987208e6e7c72789e4be2fe94b6abd
     metrics:
     - type: cos_sim_pearson
       value: 83.75945741541354
@@ -4063,6 +4262,7 @@ model-index:
       name: MTEB SciDocsRR
       config: default
       split: test
+      revision: 56a6d0140cf6356659e2a7c1413286a774468d44
     metrics:
     - type: map
       value: 87.20127714147824
@@ -4075,6 +4275,7 @@ model-index:
       name: MTEB SciFact
       config: default
       split: test
+      revision: a75ae049398addde9b70f6b268875f5cbce99089
     metrics:
     - type: map_at_1
       value: 47.483
@@ -4143,6 +4344,7 @@ model-index:
       name: MTEB SprintDuplicateQuestions
       config: default
       split: test
+      revision: 5a8256d0dff9c4bd3be3ba3e67e4e70173f802ea
     metrics:
     - type: cos_sim_accuracy
       value: 99.72871287128713
@@ -4197,6 +4399,7 @@ model-index:
       name: MTEB StackExchangeClustering
       config: default
       split: test
+      revision: 70a89468f6dccacc6aa2b12a6eac54e74328f235
     metrics:
     - type: v_measure
       value: 53.04887987709521
@@ -4207,6 +4410,7 @@ model-index:
       name: MTEB StackExchangeClusteringP2P
       config: default
       split: test
+      revision: d88009ab563dd0b16cfaf4436abaf97fa3550cf0
     metrics:
     - type: v_measure
       value: 33.133116286225686
@@ -4217,6 +4421,7 @@ model-index:
       name: MTEB StackOverflowDupQuestions
       config: default
       split: test
+      revision: ef807ea29a75ec4f91b50fd4191cb4ee4589a9f9
     metrics:
     - type: map
       value: 51.4732035634667
@@ -4229,6 +4434,7 @@ model-index:
       name: MTEB SummEval
       config: default
       split: test
+      revision: 8753c2788d36c01fc6f05d03fe3f7268d63f9122
     metrics:
     - type: cos_sim_pearson
       value: 29.365093191497525
@@ -4245,6 +4451,7 @@ model-index:
       name: MTEB TRECCOVID
       config: default
       split: test
+      revision: 2c8041b2c07a79b6f7ba8fe6acc72e5d9f92d217
     metrics:
     - type: map_at_1
       value: 0.17600000000000002
@@ -4313,6 +4520,7 @@ model-index:
       name: MTEB Touche2020
       config: default
       split: test
+      revision: 527b7d77e16e343303e68cb6af11d6e18b9f7b3b
     metrics:
     - type: map_at_1
       value: 1.813
@@ -4381,6 +4589,7 @@ model-index:
       name: MTEB ToxicConversationsClassification
       config: default
       split: test
+      revision: edfaf9da55d3dd50d43143d90c1ac476895ae6de
     metrics:
     - type: accuracy
       value: 67.4694
@@ -4395,6 +4604,7 @@ model-index:
       name: MTEB TweetSentimentExtractionClassification
       config: default
       split: test
+      revision: 62146448f05be9e52a36b8ee9936447ea787eede
     metrics:
     - type: accuracy
       value: 54.25297113752122
@@ -4407,6 +4617,7 @@ model-index:
       name: MTEB TwentyNewsgroupsClustering
       config: default
       split: test
+      revision: 091a54f9a36281ce7d6590ec8c75dd485e7e01d4
     metrics:
     - type: v_measure
       value: 47.467044776612376
@@ -4417,6 +4628,7 @@ model-index:
       name: MTEB TwitterSemEval2015
       config: default
       split: test
+      revision: 70970daeab8776df92f5ea462b6173c0b46fd2d1
     metrics:
     - type: cos_sim_accuracy
       value: 84.78869881385229
@@ -4471,6 +4683,7 @@ model-index:
       name: MTEB TwitterURLCorpus
       config: default
       split: test
+      revision: 8b6510b0b1fa4e4c4f879467980e9be563ec1cdf
     metrics:
     - type: cos_sim_accuracy
       value: 88.4367601971514
@@ -4582,7 +4795,7 @@ print(sentence_embeddings)
 
 ## Evaluation Results
 
-For an automated evaluation of this model, see the *Sentence Embeddings Benchmark*: [https://seb.sbert.net](https://seb.sbert.net?model_name=sentence-transformers/all-MiniLM-L12-v2)
+For an automated evaluation of this model, see *MTEB*: https://huggingface.co/spaces/mteb/leaderboard or the *Sentence Embeddings Benchmark*: [https://seb.sbert.net](https://seb.sbert.net?model_name=sentence-transformers/all-MiniLM-L12-v2)
 
 ------
 
